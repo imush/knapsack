@@ -1,3 +1,3 @@
 # knapsack
-k
+a bucket distribution problem
 
